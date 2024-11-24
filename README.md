@@ -1,6 +1,6 @@
-# 3 Tier Web App containerization
+# MERN App Dockerization
 
-This project consists of a full-stack application that includes a frontend, backend, and MongoDB database, all managed through Docker containers using Docker Compose.
+This project consists of a full-stack MERN Application that includes a frontend, backend, and MongoDB database, all managed through Docker containers using Docker Compose.
 
 ## Project Structure
 
@@ -23,8 +23,8 @@ Follow these steps to set up and run the project:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/BODY1998/nodejs_app_containerization.git
-    cd nodejs_app_containerization
+    git clone https://github.com/BODY1998/Dockerize_MERN_App.git
+    cd Dockerize_MERN_App
     ```
 
 2. **Build and start the application**:
