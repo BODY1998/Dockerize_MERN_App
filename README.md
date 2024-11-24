@@ -1,4 +1,5 @@
 # MERN App Dockerization
+![project image](https://i.ytimg.com/vi/J2dB96MUL8s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD9mmP5VN7sKwmRlXwL5xcQUBBIKA)
 
 This project consists of a full-stack MERN Application that includes a frontend, backend, and MongoDB database, all managed through Docker containers using Docker Compose.
 
